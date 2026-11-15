@@ -1,3 +1,29 @@
+# supervision
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+We write your reusable computer vision tools. 💜
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+可复用的计算机视觉工具集。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <p>
     <a align="center" href="https://supervision.roboflow.com" target="_blank">
